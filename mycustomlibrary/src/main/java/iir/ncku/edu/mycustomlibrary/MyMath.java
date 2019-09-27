@@ -21,4 +21,8 @@ public class MyMath {
             return n1 / n2;
         }
     }
+
+    public static String giveAString() {
+        return "This is version 2.";
+    }
 }
